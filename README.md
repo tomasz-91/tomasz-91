@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tomasz-91
-- 👀 I’m interested in eveloping ABAP Applications
+- 👀 I’m interested in developing ABAP Applications
 - 🌱 I’m currently learning JS/HTML/CSS
-- 💞️ I’m looking to collaborate on ABAP Applications
+- 💞️ I’m looking to collaborate on ABAP Applications / Fiori Apps
 - 📫 Send me a PM :)
 
 <!---
